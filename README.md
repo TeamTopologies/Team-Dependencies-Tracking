@@ -18,7 +18,7 @@ ask all our squads which other squads they depend on, and to what extent those d
 
 Understand that not all dependencies are bad, only when they introduce significant delays and/or are too unpredictable and/or increase work in progress (WIP) for the team that has to wait.
 
-![Example Screenshot](https://res.infoq.com/news/2013/04/scaling-agile-spotify-kniberg/en/resources/spotify_2.png)
+![Example Screenshot](images/spotify_dependency_tracker.png)
 
 Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
 
