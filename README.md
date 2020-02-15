@@ -35,5 +35,9 @@ Below is a table strongly inspired in the team dependencies tracker spreadsheet 
 | .               |                 |                            |                        |                                                               |
 | .               |                 |                            |                        |                                                               |
 | .               |                 |                            |                        |                                                               |
+| .               |                 |                            |                        |                                                               |
+| .               |                 |                            |                        |                                                               |
+| .               |                 |                            |                        |                                                               |
+| .               |                 |                            |                        |                                                               |
 
 With a simple spreadsheet you can graph the evolution of the different dependencies over time and get early feedback on potential problems ahead.
