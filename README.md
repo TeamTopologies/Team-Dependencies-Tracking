@@ -27,13 +27,13 @@ See [here](images/spotify_dependency_tracker.png) for the example screenshot inc
 
 Below is a table strongly inspired in the team dependencies tracker spreadsheet from Spotify:
 
-| Team name/focus | Depends on Team | Type (blocking/slowing/ok) | Cross-streams (Yes/No) |
-| --------------- | ----------------| -------------------------- | ---------------------- |
-| .               |                 |                            |                        |
-| .               |                 |                            |                        |
-| .               |                 |                            |                        |
-| .               |                 |                            |                        |
-| .               |                 |                            |                        |
-| .               |                 |                            |                        |
+| Team name/focus | Depends on Team | Type (blocking/slowing/ok) | Cross-streams (Yes/No) | Short description |  
+| --------------- | ----------------| -------------------------- | ---------------------- | ----------------- |
+| .               |                 |                            |                        |                   |
+| .               |                 |                            |                        |                   |
+| .               |                 |                            |                        |                   |
+| .               |                 |                            |                        |                   |
+| .               |                 |                            |                        |                   |
+| .               |                 |                            |                        |                   |
 
 With a simple spreadsheet you can graph the evolution of the different dependencies over time and get early feedback on potential problems ahead.
