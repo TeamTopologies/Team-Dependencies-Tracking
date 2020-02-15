@@ -25,4 +25,15 @@ solutions), while continuing to monitor the remaining ones.
 
 See [here](images/spotify_dependency_tracker.png) for the example screenshot included in the original article. Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
 
-Below is a table reproducing the team dependencies tracker spreadsheet from Spotify:
+Below is a table strongly inspired in the team dependencies tracker spreadsheet from Spotify:
+
+| Team name/focus | Depends on Team | Type (blocking/slowing/ok) | Cross-streams (Yes/No) |
+| --------------- | ----------------| -------------------------- |                        |
+| .               |                 |                            |                        |
+| .               |                 |                            |                        |
+| .               |                 |                            |                        |
+| .               |                 |                            |                        |
+| .               |                 |                            |                        |
+| .               |                 |                            |                        |
+
+With a simple spreadsheet you can graph the evolution of the different dependencies over time and get early feedback on potential problems ahead.
