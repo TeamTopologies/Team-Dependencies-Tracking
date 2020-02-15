@@ -8,17 +8,21 @@ Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@ma
 
 ## Overview
 
+All teams are part of a socio-technical system, and therefore will depend on other teams at some point in time, to a greater or lesser extent. Even if following the ideas in Team Topologies around increased or full ownership of end-to-end services, this is hardly ever 100% true.
 
+That means we should be tracking dependencies between teams now and over time. Some dependencies might be fine today but in a few months from now they start slowing down the dependant team too much and we need to address it.
+
+While ideally we might want to remove all dependencies, in practice we should identify which ones are problematic and should be removed, and which ones are "under control", for now at least. A problematic dependency introduces significant delays and/or are too unpredictability and/or increased work in progress (WIP) for the dependent team, slowing them down considerably.
 
 ## How to use
 
 ### Spotify dependency tracker
 
-ask all our squads which other squads they depend on, and to what extent those dependencies are blocking or slowing the squad down. 
+The article that described what became known as the "Spotify Model" (Oct 2012) also explained how Spotify tracked dependencies between teams over time with a simple spreadsheet. They would ask all their squads which other squads they depended on, and to what extent those dependencies were blocking or slowing them down. 
 
-Understand that not all dependencies are bad, only when they introduce significant delays and/or are too unpredictable and/or increase work in progress (WIP) for the team that has to wait.
+They would then address the the blocking and cross-tribe dependencies (namely through reorganization, architectural changes or technical
+solutions), while continuing to monitor the remaining ones. 
 
 ![Example Screenshot](images/spotify_dependency_tracker.png)
-
 Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
 
