@@ -23,6 +23,6 @@ The article that described what became known as the "Spotify Model" (Oct 2012) a
 They would then address the the blocking and cross-tribe dependencies (namely through reorganization, architectural changes or technical
 solutions), while continuing to monitor the remaining ones. 
 
-![Example Screenshot](images/spotify_dependency_tracker.png)
-Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
+See [here](images/spotify_dependency_tracker.png) for the example screenshot included in the original article. Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
 
+Below is a table reproducing the team dependencies tracker spreadsheet from Spotify:
