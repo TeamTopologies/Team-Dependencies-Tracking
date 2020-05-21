@@ -21,9 +21,10 @@ While ideally we might want to remove all dependencies, in practice we should id
 The article that described what became known as the "Spotify Model" (Oct 2012) also explained how Spotify tracked dependencies between teams over time with a simple spreadsheet. They would ask all their squads which other squads they depended on, and to what extent those dependencies were blocking or slowing them down. 
 
 They would then address the the blocking and cross-tribe dependencies (namely through reorganization, architectural changes or technical
-solutions), while continuing to monitor the remaining ones. 
+solutions), while continuing to monitor the remaining ones: 
 
-See [here](images/spotify_dependency_tracker.png) for the example screenshot included in the original article. Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)
+![Screenshot of the Spotify team dependency tracker - Source: https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf (page 6)](images/spotify_dependency_tracker.png) 
+[Source: <https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf> (page 6)]
 
 Below is a table strongly inspired in the team dependencies tracker spreadsheet from Spotify:
 
