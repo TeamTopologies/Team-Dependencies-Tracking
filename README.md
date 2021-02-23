@@ -42,3 +42,7 @@ Below is a table strongly inspired in the team dependencies tracker spreadsheet 
 | .               |                 |                            |                        |                                                               |
 
 With a simple spreadsheet you can graph the evolution of the different dependencies over time and get early feedback on potential problems ahead.
+
+## Other team dependency tools
+
+* [Team dependency mapper by Troy Magennis](https://github.com/FocusedObjective/FocusedObjective.Resources) - an Excel Macro Spreadsheet that generates nice diagrams based on data you provide around team dependencies
